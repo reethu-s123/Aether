@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Aether",
+  "description": "An ethereal AI workspace featuring intelligent neural chat sessions, persistent session management, scheduled to-do workflows, and real-time token tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
